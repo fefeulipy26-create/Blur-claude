@@ -1,0 +1,8 @@
+[{
+  "modid": "motionblur",
+  "name": "Motion Blur",
+  "description": "Blur de movimento na tela. Use /blur <on|off|0-99>.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "authorList": []
+}]
